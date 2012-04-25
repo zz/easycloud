@@ -1,0 +1,4 @@
+easycloud
+=========
+
+openstack easy deploy
